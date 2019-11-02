@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tema Test on Tema Test</title>
-    <link>https://localhost/</link>
+    <link>https://zrzvr.github.io/</link>
     <description>Die neuesten Inhalte auf Tema Test</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
@@ -14,10 +14,10 @@
     
     <item>
       <title>Dolextmi</title>
-      <link>https://localhost/dolextmi/</link>
+      <link>https://zrzvr.github.io/dolextmi/</link>
       <pubDate>Thu, 24 Oct 2019 22:00:00 +0200</pubDate>
       
-      <guid>https://localhost/dolextmi/</guid>
+      <guid>https://zrzvr.github.io/dolextmi/</guid>
       <description>
 
 &lt;h3 id=&#34;dolextmi&#34;&gt;Dolextmi&lt;/h3&gt;
@@ -40,10 +40,10 @@ noch mehr Kod
     
     <item>
       <title>Fufu</title>
-      <link>https://localhost/fufu/</link>
+      <link>https://zrzvr.github.io/fufu/</link>
       <pubDate>Thu, 24 Oct 2019 22:00:00 +0200</pubDate>
       
-      <guid>https://localhost/fufu/</guid>
+      <guid>https://zrzvr.github.io/fufu/</guid>
       <description>
 
 &lt;h2 id=&#34;fufu&#34;&gt;Fufu&lt;/h2&gt;
@@ -59,10 +59,10 @@ noch mehr Kod
     
     <item>
       <title>Hallo Welt!</title>
-      <link>https://localhost/hurz/</link>
+      <link>https://zrzvr.github.io/hurz/</link>
       <pubDate>Thu, 24 Oct 2019 22:00:00 +0200</pubDate>
       
-      <guid>https://localhost/hurz/</guid>
+      <guid>https://zrzvr.github.io/hurz/</guid>
       <description>
 
 &lt;h2 id=&#34;hurz&#34;&gt;Hurz&lt;/h2&gt;
@@ -73,10 +73,10 @@ noch mehr Kod
     
     <item>
       <title>Schnurz!</title>
-      <link>https://localhost/schnurz/</link>
+      <link>https://zrzvr.github.io/schnurz/</link>
       <pubDate>Thu, 24 Oct 2019 22:00:00 +0200</pubDate>
       
-      <guid>https://localhost/schnurz/</guid>
+      <guid>https://zrzvr.github.io/schnurz/</guid>
       <description>
 
 &lt;h2 id=&#34;schnurz&#34;&gt;Schnurz&lt;/h2&gt;

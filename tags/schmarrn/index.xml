@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Schmarrn on Tema Test</title>
-    <link>https://localhost/tags/schmarrn/</link>
+    <link>https://zrzvr.github.io/tags/schmarrn/</link>
     <description>Recent content in Schmarrn on Tema Test</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Thu, 24 Oct 2019 22:00:00 +0200</lastBuildDate>
     
-	<atom:link href="https://localhost/tags/schmarrn/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zrzvr.github.io/tags/schmarrn/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dolextmi</title>
-      <link>https://localhost/dolextmi/</link>
+      <link>https://zrzvr.github.io/dolextmi/</link>
       <pubDate>Thu, 24 Oct 2019 22:00:00 +0200</pubDate>
       
-      <guid>https://localhost/dolextmi/</guid>
+      <guid>https://zrzvr.github.io/dolextmi/</guid>
       <description> Dolextmi fett
  Punkt  unterstrichen
 Kod noch mehr Kod  </description>
@@ -24,10 +24,10 @@ Kod noch mehr Kod  </description>
     
     <item>
       <title>Schnurz!</title>
-      <link>https://localhost/schnurz/</link>
+      <link>https://zrzvr.github.io/schnurz/</link>
       <pubDate>Thu, 24 Oct 2019 22:00:00 +0200</pubDate>
       
-      <guid>https://localhost/schnurz/</guid>
+      <guid>https://zrzvr.github.io/schnurz/</guid>
       <description> Schnurz dede grunz </description>
     </item>
     
