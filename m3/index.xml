@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M3s on Tema Test</title>
-    <link>https://localhost/m3/</link>
+    <link>https://zrzvr.github.io/m3/</link>
     <description>Recent content in M3s on Tema Test</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Sat, 02 Nov 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://localhost/m3/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zrzvr.github.io/m3/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>M3.1</title>
-      <link>https://localhost/m3/m31/</link>
+      <link>https://zrzvr.github.io/m3/m31/</link>
       <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost/m3/m31/</guid>
+      <guid>https://zrzvr.github.io/m3/m31/</guid>
       <description> M3.1 </description>
     </item>
     
