@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M2s on Tema Test</title>
+    <link>https://localhost/m2/</link>
+    <description>Recent content in M2s on Tema Test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Thu, 24 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://localhost/m2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>M2.1</title>
+      <link>https://localhost/m2/m21/</link>
+      <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost/m2/m21/</guid>
+      <description> M2.1 </description>
+    </item>
+    
+    <item>
+      <title>M2.2</title>
+      <link>https://localhost/m2/m22/</link>
+      <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost/m2/m22/</guid>
+      <description> M2.2 </description>
+    </item>
+    
+  </channel>
+</rss>

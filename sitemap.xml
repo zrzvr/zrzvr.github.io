@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://localhost/m3/m31/</loc>
+    <lastmod>2019-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://localhost/m3/</loc>
+    <lastmod>2019-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://localhost/</loc>
+    <lastmod>2019-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://localhost/dolextmi/</loc>
+    <lastmod>2019-10-24T22:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://localhost/fufu/</loc>
+    <lastmod>2019-10-24T22:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://localhost/hurz/</loc>
+    <lastmod>2019-10-24T22:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://localhost/tags/nix/</loc>
+    <lastmod>2019-10-24T22:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://localhost/tags/schmarrn/</loc>
+    <lastmod>2019-10-24T22:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://localhost/schnurz/</loc>
+    <lastmod>2019-10-24T22:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://localhost/tags/</loc>
+    <lastmod>2019-10-24T22:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://localhost/m1/m11/</loc>
+    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://localhost/m1/m12/</loc>
+    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://localhost/m1/</loc>
+    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://localhost/m2/m21/</loc>
+    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://localhost/m2/m22/</loc>
+    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://localhost/m2/</loc>
+    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://localhost/404/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://localhost/categories/</loc>
+  </url>
+  
+</urlset>

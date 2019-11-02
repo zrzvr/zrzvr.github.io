@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Tema Test</title>
+    <link>https://localhost/tags/</link>
+    <description>Recent content in Tags on Tema Test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Thu, 24 Oct 2019 22:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://localhost/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nix</title>
+      <link>https://localhost/tags/nix/</link>
+      <pubDate>Thu, 24 Oct 2019 22:00:00 +0200</pubDate>
+      
+      <guid>https://localhost/tags/nix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Schmarrn</title>
+      <link>https://localhost/tags/schmarrn/</link>
+      <pubDate>Thu, 24 Oct 2019 22:00:00 +0200</pubDate>
+      
+      <guid>https://localhost/tags/schmarrn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
